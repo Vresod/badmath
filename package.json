@@ -1,0 +1,19 @@
+{
+  "name": "badmath",
+  "version": "1.0.0",
+  "description": "Repeated addition = multiplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vresod/badmath.git"
+  },
+  "author": "Vresod",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vresod/badmath/issues"
+  },
+  "homepage": "https://github.com/Vresod/badmath#readme"
+}
